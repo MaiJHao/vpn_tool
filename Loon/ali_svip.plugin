@@ -50,7 +50,7 @@ https://api.aliyundrive.com/apps/v1/users/home/news reject-200
 
 https:\/\/api\.alipan\.com\/business\/v1.0\/users\/coupon\/detail reject-200
 
-script-path = https:\/\/member\.alipan\.com\/v1\/users\/onboard_list reject-200
+https:\/\/member\.alipan\.com\/v1\/users\/onboard_list reject-200
 
 
 
